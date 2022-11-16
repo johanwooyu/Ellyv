@@ -309,3 +309,6 @@ body {
     padding: 25px;
     margin-top: 180px;
 }
+.password p {
+    font-size : 12px;
+}
