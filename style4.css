@@ -33,9 +33,6 @@ body {
     background-size: 100%;
     display: inline-block;
 }
-.password {
-    font-size: 20px;
-}
 .title {
     position: absolute;
     top: 20%;
